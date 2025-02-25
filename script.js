@@ -5,7 +5,7 @@ function getFormvalue() {
 
 	let firstVal = fName.value
 	let lastVal = lName.value
-	alert(firstVal+" "+lastVal)
+	alert("\'"+firstVal+" "+lastVal+"\'")
 	
 
 }
